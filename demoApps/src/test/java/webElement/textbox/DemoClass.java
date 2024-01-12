@@ -7,7 +7,6 @@ public class DemoClass {
 	@Test
 	public void demoTest() {
 		System.out.println("Changes Made by TE1");
-		System.out.println("Changes Made by TE2");
 
 	}
 
